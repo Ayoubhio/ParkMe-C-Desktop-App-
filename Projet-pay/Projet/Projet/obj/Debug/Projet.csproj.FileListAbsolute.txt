@@ -1,0 +1,804 @@
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Core.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Identity.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Buffers.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Data.SqlClient.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Memory.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.AccessControl.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Permissions.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Json.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.ValueTuple.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Core.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Identity.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Buffers.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Data.SqlClient.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Memory.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.AccessControl.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Permissions.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Json.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.ValueTuple.xml
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Inscription.resources
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\ProjetDB.mdf
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\bin\Debug\ProjetDB_log.ldf
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\THINKPAD\Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\ProjetDB.mdf
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\ProjetDB_log.ldf
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Core.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Identity.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Buffers.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Memory.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.AccessControl.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Permissions.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Json.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Core.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Identity.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Buffers.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Memory.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Permissions.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Json.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Inscription.resources
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\hp\OneDrive\Bureau\Projet-Desktop\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\ProjetDB.mdf
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\ProjetDB_log.ldf
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Core.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Identity.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Buffers.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Data.SqlClient.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Memory.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.AccessControl.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Permissions.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Json.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.ValueTuple.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Core.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Azure.Identity.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Buffers.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Data.SqlClient.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Memory.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.AccessControl.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Permissions.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Text.Json.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\System.ValueTuple.xml
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Inscription.resources
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Tarif.resources
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet-Desktop\Projet-Desktop\Projet\Projet\obj\Debug\Projet.Reserver.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Database.mdf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Database_log.ldf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\ProjetDB.mdf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\ProjetDB_log.ldf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Azure.Core.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Azure.Identity.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Buffers.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Memory.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Security.AccessControl.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Security.Permissions.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Text.Json.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Azure.Core.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Azure.Identity.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Buffers.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Memory.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Security.Permissions.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Text.Json.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.Inscription.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.Reserver.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.Tarif.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Database.mdf
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Database_log.ldf
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\ProjetDB.mdf
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\ProjetDB_log.ldf
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Azure.Core.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Azure.Identity.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Buffers.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Data.SqlClient.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Memory.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Security.AccessControl.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Security.Permissions.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Text.Json.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.ValueTuple.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Azure.Core.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Azure.Identity.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Buffers.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Data.SqlClient.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Memory.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Security.AccessControl.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Security.Permissions.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Text.Json.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\System.ValueTuple.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.Inscription.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.Reserver.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.Tarif.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet\Projet\obj\Debug\Projet.Payer.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Database.mdf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Database_log.ldf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\ProjetDB.mdf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\ProjetDB_log.ldf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Azure.Core.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Azure.Identity.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Buffers.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Memory.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Security.AccessControl.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Security.Permissions.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Text.Json.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Azure.Core.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Azure.Identity.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Buffers.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Memory.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Security.Permissions.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Text.Json.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.Inscription.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.Payer.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.Reserver.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.Tarif.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (7)\Nouveau dossier\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Database.mdf
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Database_log.ldf
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\ProjetDB.mdf
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\ProjetDB_log.ldf
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Azure.Core.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Azure.Identity.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Buffers.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Data.SqlClient.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Memory.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Security.AccessControl.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Security.Permissions.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Text.Json.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.ValueTuple.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Azure.Core.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Azure.Identity.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Buffers.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Data.SqlClient.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Memory.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Security.AccessControl.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Security.Permissions.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Text.Json.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\System.ValueTuple.xml
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.Inscription.resources
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.Payer.resources
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.Reserver.resources
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.Tarif.resources
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\THINKPAD\Downloads\Projet-pay\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Database.mdf
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Database_log.ldf
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\ProjetDB.mdf
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\ProjetDB_log.ldf
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Azure.Core.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Azure.Identity.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Buffers.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Data.SqlClient.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Memory.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.AccessControl.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.Permissions.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Text.Json.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.ValueTuple.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Azure.Core.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Azure.Identity.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Buffers.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Data.SqlClient.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Memory.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.AccessControl.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.Permissions.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Text.Json.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\System.ValueTuple.xml
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Inscription.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Payer.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Reserver.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Tarif.resources
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Historique.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Database.mdf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Database1.mdf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Database1_log.ldf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Database_log.ldf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\ProjetDB.mdf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\ProjetDB_log.ldf
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Azure.Core.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Azure.Identity.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Buffers.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Memory.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.AccessControl.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.Permissions.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Text.Json.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\stdole.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Azure.Core.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Azure.Identity.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Buffers.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Memory.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.Permissions.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Text.Json.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Facture.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Historique.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Inscription.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Payer.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Reserver.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Tarif.resources
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.csproj.CopyComplete
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\hp\OneDrive\Bureau\Nouveau dossier (9)\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Database1.mdf
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\Database1_log.ldf
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\bin\Debug\stdole.dll
+C:\Users\THINKPAD\Downloads\Projet\Projet-pay\Projet\Projet\obj\Debug\Projet.Facture.resources
